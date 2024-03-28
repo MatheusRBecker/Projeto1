@@ -1,0 +1,28 @@
+div {
+    border: 2px solid red;
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px #ff6d6d;
+    padding: 5px 10px 5px 15px;
+}
+
+H1 {
+    color: #00007e;
+    font-weight: 700;
+    font-size: 30px;
+    text-shadow: 0px 0px 5px #8400db;
+}
+
+
+H2 {
+    color: #3a3a3a;
+    font-weight: 600;
+    font-size: 26px;
+    text-shadow: 0px 0px 4px #6b6b6b;
+}
+
+p {
+    color: #342d36;
+    font-weight: 400;
+    font-size: 24px;
+    text-shadow: 0px 0px 7px black;
+}
